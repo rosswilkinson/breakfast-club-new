@@ -1,0 +1,12 @@
+2016-09-29 13:26:14,948 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-09-29T12:26:14.918Z.
+2016-09-29 13:26:15,504 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-09-29 14:13:46,710 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-09-29T13:13:46.692Z.
+2016-09-29 14:13:47,330 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-09-29T13:13:47.330Z after 1s.
+2016-09-29 14:13:47,476 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-09-29T13:13:47.476Z.
+2016-09-29 14:13:47,566 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-09-29T13:13:47.566Z after 0s.
+2016-09-29 14:13:47,670 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-09-29T13:13:47.670Z.
+2016-09-29 14:13:47,722 [INFO] from application in pool-1-thread-1-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-09-29T13:13:47.722Z after 0s.
+2016-09-29 14:13:48,715 [INFO] from application in pool-1-thread-1-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-09-29T13:13:48.715Z.
+2016-09-29 14:13:49,454 [INFO] from application in pool-1-thread-1-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-09-29T13:13:49.454Z after 1s.
+2016-09-29 14:13:49,534 [INFO] from application in pool-1-thread-1 - ApplicationTimer demo: Starting application at 2016-09-29T13:13:49.533Z.
+2016-09-29 14:13:49,616 [INFO] from application in pool-1-thread-1 - ApplicationTimer demo: Stopping application at 2016-09-29T13:13:49.615Z after 0s.
